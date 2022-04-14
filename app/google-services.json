@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "272909395658",
+    "project_id": "iot-app-cb4b5",
+    "storage_bucket": "iot-app-cb4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272909395658:android:00c105f89227d1374f7633",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272909395658-1srjbv6qhnsi5ue22ea0020mocjhh130.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "68075823e2781cb9915cf6b861317cec288add7d"
+          }
+        },
+        {
+          "client_id": "272909395658-pf8cbk9s8nutml39d7chp6hh7a3u825m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WxhdYFL3m-euCue7DECYYATe4DMhcVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272909395658-pf8cbk9s8nutml39d7chp6hh7a3u825m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

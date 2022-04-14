@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="btn_Create">Create</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+</resources>
